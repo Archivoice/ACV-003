@@ -15,7 +15,8 @@ The full length dataset only includes wav and lab files, whereas the segmented d
 The ds contains f0 and note slur data.
 
 ## Additional Info:
-The dataset includes the following global phonemes: [`exh`,`vf`], `exh` for exhales and `vf` for vocal fry
+The dataset includes the following global phonemes: [`exh`,`vf`], `exh` for exhales and `vf` for vocal fry\
+Please do note that by no means is Jonathan professionally trained, and thus improper technique is to some point, to be expected.
 
 ## Song List:
 See [song list](/song_list.txt)
