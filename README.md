@@ -18,7 +18,7 @@ The ds contains f0 and note slur data.
 The dataset includes the following global phonemes: [`exh`,`vf`], `exh` for exhales and `vf` for vocal fry
 
 ## Song List:
-See [song list](/song_list)
+See [song list](/song_list.txt)
 
 # Credits:
 Voice provided by Jonathan Huang 黃奕晨, owner of ArchiVoice, [X/Twitter](https://x.com/NekroTheCorpse)
